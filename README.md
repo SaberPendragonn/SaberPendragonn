@@ -13,6 +13,13 @@ This GitHub serves as my **living resume and project portfolio**, showcasing my 
 
 ---
 
+## 📂 Featured Projects
+
+Explore my real-world networking and IT support labs in this dedicated project page:
+
+➡️ **[Click here to view my Project Portfolio »] https://github.com/SaberPendragonn/Project-Portfolio/tree/main**
+
+---
 ## 🧾 Certifications
 
 <p align="left">
@@ -20,14 +27,6 @@ This GitHub serves as my **living resume and project portfolio**, showcasing my 
   <img src="https://img.shields.io/badge/CompTIA%20A%2B-Certified-blue?style=for-the-badge&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA%20ITF%2B-Beginner-green?style=for-the-badge&logo=comptia&logoColor=white" />
 </p>
-
----
-
-## 📂 Featured Projects
-
-Explore my real-world networking and IT support labs in this dedicated project page:
-
-➡️ **[Click here to view my Project Portfolio »](https://github.com/yourusername/projects-page)**
 
 ---
 
@@ -77,11 +76,11 @@ Laguna State Polytechnic University — 2025
 
 ## 📚 Relevant Trainings & Seminars
 
+- ECE Career Compass: Navigating IT & Engineering Roles - 2024
 - MikroTik RouterOS Hands on Training - 2025
 - Structured Cabling System: Cat5e/6 termination and rack design - 2025 
 - Fire Detection & Alarm System (FDAS) with LAN Integration - 2025 
 - Auxiliary & Public Address (PABGM) System via LAN - 2025
-- ECE Career Compass: Navigating IT & Engineering Roles - 2024
 
 ---
 
