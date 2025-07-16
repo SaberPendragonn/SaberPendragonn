@@ -30,10 +30,11 @@ Eager to contribute in **network operations**, **technical support**, or **IT in
 ## 📂 Featured Projects
 
 - 📡 **[MikroTik Networking Labs](https://github.com/SaberPendragonn/MikroTik-Networking-Labs)**  
-  Routing, NAT, Firewall, VPNs, VLANs, Queues — all aligned with MTCNA topics
+  Hands-on RouterOS labs covering **static routing**, **NAT/firewall rules**, **VLAN trunking**, **VPNs**, and **bandwidth shaping** — aligned with the MTCNA course outline.  
 
 - 🖥️ **[IT Support & CompTIA Labs](https://github.com/SaberPendragonn/IT-Support-CompTIA-Labs)**  
-  Windows troubleshooting, group policies, permissions, Office 365, Linux fixes
+  Simulated ticket-based scenarios for **Windows troubleshooting**, **Active Directory**, **Office 365 setup**, **file/print sharing**, and **Linux CLI system fixes**.
+ fixes
 
 ---
 
@@ -89,7 +90,7 @@ Eager to contribute in **network operations**, **technical support**, or **IT in
 - **Technical Training & Orientation for Structured Cabling System** – 2025  
 - **Technical Training & Orientation for Public Address and Background Music System (PABGM)** – 2025  
 - **Technical Training & Orientation for Auxiliary Systems** – 2025  
-- **MikroTik RouterOS Training Camp** – Routing, Firewall, VPN, Queues  
+- **MikroTik RouterOS Training Camp (MTCNA)** – 2025  
 - **ECE Career Compass: Navigating IT & Engineering Roles** – 2023
 
 ---
@@ -97,8 +98,8 @@ Eager to contribute in **network operations**, **technical support**, or **IT in
 ## 🏆 Achievements
 
 - IECEP Regional Quizzer Representative  
-- Champion – College-Level Python Programming Contest  
-- Capstone Project: *System Virtualization & Wireless Sensor Network Lab*
+- Champion – College-Level Python/C Programming Contest  
+- Thesis: *System Virtualization & Wireless Sensor Network Lab*
 
 ---
 
@@ -106,4 +107,4 @@ Eager to contribute in **network operations**, **technical support**, or **IT in
 
 - 🔗 [GitHub](https://github.com/SaberPendragonn)  
 - 🔗 [LinkedIn](https://linkedin.com/in/yourusername)  
-- 📧 anthonymacabata@email.com
+- 📧 amacabata43@gmail.com
