@@ -10,7 +10,9 @@
 ## 💡 About Me
 
 Recent Electronics Engineering graduate with certifications in **MikroTik (MTCNA)**, **CompTIA A+**, and **CompTIA ITF+**.  
+
 Completed internship with **DMCI Consunji Inc.**, and now actively documenting technical projects in networking and IT support on GitHub.  
+
 Focused on entering roles in **network operations**, **technical support**, or **IT infrastructure**, with a long-term goal of becoming a **network engineer** or **cybersecurity analyst**.
 
 ---
@@ -27,10 +29,10 @@ Focused on entering roles in **network operations**, **technical support**, or *
 
 ## 📂 Featured Projects
 
-- 📡 **[MikroTik Networking Labs](https://github.com/yourusername/mikrotik-labs)**  
+- 📡 **[MikroTik Networking Labs] https://github.com/SaberPendragonn/MikroTik-Networking-Labs**  
   Routing, NAT, Firewall, VPNs, VLANs, Queues — all aligned with MTCNA topics
 
-- 🖥️ **[IT Support & CompTIA Labs](https://github.com/yourusername/it-support-labs)**  
+- 🖥️ **[IT Support & CompTIA Labs] https://github.com/SaberPendragonn/IT-Support-CompTIA-Labs**  
   Windows troubleshooting, group policies, permissions, Office 365, Linux fixes
 
 ---
