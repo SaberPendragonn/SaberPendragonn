@@ -1,84 +1,96 @@
 <h1 align="center">Anthony R. Macabata</h1>
 
 <p align="center">
-  🎓 BS in Electronics Engineering · Laguna State Polytechnic University  
-  📍 Entry-Level Networking · IT Support · NOC Technician  
+  🎓 BS in Electronics Engineering · Laguna State Polytechnic University   
 </p>
 
 ---
 
 ## 💡 About Me
 
-Recent Electronics Engineering graduate with certifications in **MikroTik (MTCNA)**, **CompTIA A+**, and **CompTIA ITF+**.  
+I'm a recent Electronics Engineering graduate with certifications in *CompTIA A+* and *MikroTik Certified Network Associate*, with hands-on skills in Microsoft 365 and Windows Server hybrid environments. I specialize in building realistic, multi-skill IT lab environments that simulate workplace scenarios.
 
-Completed internship at **DMCI Consunji Inc.**, and now actively building and documenting self-configured labs on GitHub, focused on networking, IT support, and system diagnostics.  
-
-Eager to contribute in **network operations**, **technical support**, or **IT infrastructure** — with a long-term goal of becoming a **network engineer** or **cybersecurity analyst**.
+I’m eager to contribute to a company where I can *grow professionally* while *constantly upskilling and expanding my knowledge* across networking, systems administration, and cloud technologies.
 
 ---
 
-## 🏅 Certifications
+## 🛠 Core Skills
 
-<div align="left">
-  <img src="https://img.shields.io/badge/MTCNA-MikroTik-blue?style=for-the-badge&logo=mikrotik&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA%20A%2B-EE0000?style=for-the-badge&logo=compTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA%20ITF%2B-6A1B9A?style=for-the-badge&logo=compTIA&logoColor=white" />
-</div>
+| *Networking (MTCNA)* | *Microsoft 365 (MS-102)* | *Windows Server Hybrid Core* |
+|-------------------------------|-----------------------------|----------------------------------|
+| DHCP, Bridging, Firewall      | Deploy and manage a Microsoft 365 tenant | Deploy and manage Active Directory Domain Services (AD DS) in on-premises and cloud environments |
+| VPN, Tunnels                  | Implement and manage Microsoft Entra identity and access | Manage Windows Servers and workloads in a hybrid environment |
+| Routing (Static & Dynamic)    | Manage security and threats using Microsoft Defender XDR | Manage virtual machines and containers |
+| Wireless                      | Manage compliance using Microsoft Purview | Implement and manage on-premises and hybrid networking infrastructure |
+| QoS                           |                             | Manage storage and file services |
 
----
-
-## 📂 Featured Projects
-
-- 📡 **[MikroTik Networking Labs](https://github.com/SaberPendragonn/MikroTik-Networking-Labs)**  
-  Hands-on RouterOS labs covering **static routing**, **NAT/firewall rules**, **VLAN trunking**, **VPNs**, and **bandwidth shaping** — aligned with the MTCNA course outline.  
-
-- 🖥️ **[IT Support & CompTIA Labs](https://github.com/SaberPendragonn/IT-Support-CompTIA-Labs)**  
-  Simulated ticket-based scenarios for **Windows troubleshooting**, **Active Directory**, **Office 365 setup**, **file/print sharing**, and **Linux CLI system fixes**.
- fixes
 
 ---
 
-## 🧠 Skills Snapshot
+## 🚀 Featured Projects
 
-### 🛰 Networking Skills
+Organized into general categories to reflect job-relevant skill areas:
 
-- IP Addressing & Subnetting  
-- Static Routing, OSPF Basics  
-- NAT, DHCP, VLAN Configuration  
-- Port Forwarding & Firewall Rules  
-- VPN Setup (L2TP/IPSec)  
-- SSH / Telnet Remote Access  
-- Basic Network Monitoring (Torch, Graphs, Logs)
+### 🧠 [Networking](./PROJECTS.md#networking)
+- *MikroTik Labs*  
+  Realistic virtual labs covering DHCP, routing, bridging, firewall, NAT, VPN, tunnels, wireless APs, and more.
 
-### 🖥️ IT Support Skills
+### 🖥️ [Systems & Administration](./PROJECTS.md#systems--administration)
+- *Windows Server Labs*  
+  Projects based on hybrid Windows Server infrastructure with Active Directory, Group Policy, Hyper-V, and more.
 
-- Windows 10/11 System Troubleshooting  
-- Active Directory: Users, Groups, GPO  
-- Remote Desktop, File & Printer Sharing  
-- PowerShell for Admin Tasks  
-- Office 365 & Outlook Configuration  
-- Linux CLI Basics: Permissions, DNS, Updates  
-- Ticket Documentation & Technical Reports
+### ☁️ [Cloud & Automation](./PROJECTS.md#cloud--automation)
+- *Microsoft 365 Labs*  
+  Labs simulating real-world Microsoft 365 admin tasks: tenant setup, Entra ID, Defender XDR, Purview compliance.
+- *PowerShell Automation*  
+  Scripting-based automation of tasks in Windows environments and Microsoft 365 administration.
+
+---
+
+## 📁 See All Projects
+📂 View the full list of documented projects: [📄 Project Portfolio](./PROJECTS.md)
 
 ---
 
 ## 🛠 Tools I Use
 
-<p align="left">
-  <img src="https://img.shields.io/badge/MikroTik-CC241D?style=flat&logo=mikrotik&logoColor=white" />
-  <img src="https://img.shields.io/badge/Winbox-3C3C3C?style=flat&logo=mikrotik&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNS3-336699?style=flat&logo=gns3&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-012456?style=flat&logo=powershell&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://i.imgur.com/7eT2VJF.png" width="60"/><br/>VMware</td>
+    <td align="center"><img src="https://i.imgur.com/NpUzVvK_d.webp" width="60"/><br/>Winbox</td>
+    <td align="center"><img src="https://i.imgur.com/5TcvUqc_d.webp" width="60"/><br/>VirtualBox</td>
+    <td align="center"><img src="https://i.imgur.com/w028UQc_d.webp" width="60"/><br/>PowerShell</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://i.imgur.com/cnySgvq_d.webp" width="60"/><br/>Remote Desktop</td>
+    <td align="center"><img src="https://i.imgur.com/KLiKm94_d.webp" width="60"/><br/>Windows Enterprise</td>
+    <td align="center"><img src="https://i.imgur.com/KLiKm94_d.webp" width="60"/><br/>Windows Server</td>
+    <td align="center"><img src="https://i.imgur.com/Rw58Udk_d.webp" width="60"/><br/>Microsoft 365</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://i.imgur.com/EAz7Y6q_d.webp" width="60"/><br/>Mikrotik RouterOS</td>
+    <td align="center"><img src="https://i.imgur.com/PC3HMq6_d.webp" width="60"/><br/>PuTTy</td>
+    <td align="center"><img src="https://i.imgur.com/uqiBAgC_d.png" width="60"/><br/>GNS3</td>
+    <td align="center"><img src="https://i.imgur.com/sO8r40p_d.webp" width="60"/><br/>Wireshark</td>
+  </tr>
+</table>
+
+---
+
+## 📜 Certifications
+
+<table>
+  <tr>
+    <td align="center"><img src="https://i.imgur.com/uG6MWx5_d.webp" width="60"/><br/>CompTIA A+</td>
+    <td align="center"><img src="https://i.imgur.com/WJtMbIH_d.webp" width="60"/><br/>MikroTik Certified Network Associate</td>
+  </tr>
+</table>
 
 ---
 
 ## 🏢 Internship Experience
 
-**D.M. Consunji, Inc. (DMCI)** – 2025  
+*D.M. Consunji, Inc. (DMCI)* – 2025  
 - Participated in planning and site inspection of structured cabling and IT infrastructure for the DLSU building project  
 - Observed network cabling, patch panel layouts, and device labeling practices
 
@@ -86,12 +98,12 @@ Eager to contribute in **network operations**, **technical support**, or **IT in
 
 ## 📚 Trainings & Seminars
 
-- **Technical Training & Orientation for Fire Detection and Alarm System (FDAS)** – 2025  
-- **Technical Training & Orientation for Structured Cabling System** – 2025  
-- **Technical Training & Orientation for Public Address and Background Music System (PABGM)** – 2025  
-- **Technical Training & Orientation for Auxiliary Systems** – 2025  
-- **MikroTik RouterOS Training Camp (MTCNA)** – 2025  
-- **ECE Career Compass: Navigating IT & Engineering Roles** – 2023
+- *Technical Training & Orientation for Fire Detection and Alarm System (FDAS)* – 2025  
+- *Technical Training & Orientation for Structured Cabling System* – 2025  
+- *Technical Training & Orientation for Public Address and Background Music System (PABGM)* – 2025  
+- *Technical Training & Orientation for Auxiliary Systems* – 2025  
+- *MikroTik RouterOS Training Camp (MTCNA)* – 2025  
+- *ECE Career Compass: Navigating IT & Engineering Roles* – 2023
 
 ---
 
@@ -99,7 +111,7 @@ Eager to contribute in **network operations**, **technical support**, or **IT in
 
 - IECEP Regional Quizzer Representative  
 - Champion – College-Level Python/C Programming Contest  
-- Thesis: *System Virtualization & Wireless Sensor Network Lab*
+- Thesis: System Virtualization & Wireless Sensor Network Lab
 
 ---
 
