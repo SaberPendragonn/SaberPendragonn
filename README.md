@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/bAyfZ25.png" width="120" height="120" style="border-radius:50%;" />
+<img src="https://i.imgur.com/bAyfZ25.png" width="90" style="border-radius:50%;" />
+
+<br/>
 
 **Licensed Electronics Engineer (ECE)**  
 **Licensed Electronics Technician (ECT)**  
@@ -13,12 +15,9 @@
 
 ## 💡 Professional Summary
 
-Licensed **Electronics Engineer** and **Electronics Technician** with hands-on experience in **network engineering** and **systems administration**. Skilled in designing and deploying **scalable, secure IT infrastructures** using **MikroTik RouterOS** and **Windows Server environments**.
+Licensed Electronics Engineer and Electronics Technician with practical experience in network setup and system administration. I’ve worked extensively with MikroTik routers and Windows Server environments, building lab setups that reflect real-world IT systems.
 
-Passionate about building **real-world lab simulations** that mirror enterprise systems, with a focus on:
-- Network segmentation and security  
-- Centralized system management  
-- Infrastructure reliability and performance optimization  
+I focus on creating reliable and secure networks, improving system organization, and continuously developing my skills through hands-on projects and simulations.
 
 ---
 
@@ -27,25 +26,30 @@ Passionate about building **real-world lab simulations** that mirror enterprise 
 ### 🔹 Networking
 - MikroTik RouterOS *(Routing · NAT · Firewall · VPN · VLANs)*
 - TCP/IP, Subnetting, Network Design
-- Network Troubleshooting & Optimization
+- Network Troubleshooting
 
 ### 🔹 Systems Administration
 - Windows Server *(Active Directory · DNS · DHCP · Group Policy)*
-- Virtualization & Lab Deployment
-- User and Policy Management
+- Virtualization
+- User & Policy Management
 
-### 🔹 Tools & Technologies
+---
+
+## 🧰 Tools & Technologies
 
 <div align="center">
 
-<img src="https://i.imgur.com/giz2X3y.png" width="60"/> 
-<img src="https://i.imgur.com/fN0DZaX.png" width="60"/> 
-<img src="https://i.imgur.com/ZanTLkR.png" width="60"/> 
-<img src="https://i.imgur.com/bAyfZ25.png" width="60"/> 
-<img src="https://i.imgur.com/DOZcEtL.png" width="60"/> 
-<img src="https://i.imgur.com/SiCyQrz.png" width="60"/> 
-<img src="https://i.imgur.com/azY7EfE.png" width="60"/> 
-<img src="https://i.imgur.com/d6wCzdZ.png" width="60"/> 
+<img src="https://i.imgur.com/giz2X3y.png" width="50"/> &nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/fN0DZaX.png" width="50"/> &nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/ZanTLkR.png" width="50"/> &nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/bAyfZ25.png" width="50"/>
+
+<br/><br/>
+
+<img src="https://i.imgur.com/DOZcEtL.png" width="50"/> &nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/SiCyQrz.png" width="50"/> &nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/azY7EfE.png" width="50"/> &nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/d6wCzdZ.png" width="50"/>
 
 </div>
 
@@ -60,20 +64,17 @@ MikroTik · WinBox · GNS3 · VirtualBox · VMware · Windows Server · PowerShe
 ### 🔗 Network & Systems Engineering Labs  
 📁 https://github.com/SaberPendragonn/network-and-systems-portfolio  
 
-A curated portfolio of **hands-on lab environments** demonstrating:
-
-- Enterprise network design and segmentation  
-- Active Directory deployment and management  
-- Secure routing and firewall configurations  
-- Virtualized infrastructure setups  
+A collection of hands-on lab projects covering:
+- Network segmentation and design  
+- Active Directory setup and management  
+- Secure routing and firewall configuration  
+- Virtualized environments  
 
 ---
 
 ## 📜 Certifications
 
-<div align="left">
-<img src="https://i.imgur.com/9cShMBx.png" width="90"/>
-</div>
+<img src="https://i.imgur.com/9cShMBx.png" width="80"/>
 
 - **MikroTik Certified Network Associate (MTCNA)**
 
@@ -81,18 +82,16 @@ A curated portfolio of **hands-on lab environments** demonstrating:
 
 ## 🏢 Internship Experience
 
-<div align="left">
-<img src="https://i.imgur.com/AIWXhUV.png" width="90"/>
-</div>
+<img src="https://i.imgur.com/AIWXhUV.png" width="70"/>
 
 **D.M. Consunji, Inc. (DMCI)** — *2025*
 
-- Assisted in **planning and inspection** of structured cabling systems  
-- Observed **enterprise-level IT infrastructure deployments**  
-- Gained exposure to:
-  - Patch panel configuration  
-  - Cable labeling standards  
-  - Network layout design  
+- Assisted in planning and inspection of structured cabling systems  
+- Observed actual IT infrastructure deployments  
+- Learned industry practices in:
+  - Patch panels  
+  - Cable labeling  
+  - Network layout  
 
 ---
 
