@@ -2,88 +2,71 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/bAyfZ25.png" width="120" style="border-radius:50%; border: 2px solid #2ea44f;" />
+<img src="https://i.imgur.com/bAyfZ25.png" width="120" style="border-radius:50%; border: 3px solid #24292e;" />
 
 **Licensed Electronics Engineer | Licensed Electronics Technician** *Specializing in Network Infrastructure, Systems Administration, and Virtualization*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SaberPendragonn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:engineer.anthony.macabata@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaberPendragonn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engineer.anthony.macabata@gmail.com)
 
 </div>
 
 ---
 
-## 💡 Professional Summary
-I am a dual-licensed Engineer with a core focus on designing and securing resilient network infrastructures. My expertise lies in bridging the gap between hardware electronics and enterprise systems administration, with hands-on experience in **MikroTik routing**, **Windows Server environments**, and **virtualized lab deployments**. I thrive on automating workflows through PowerShell and building scalable, documented IT solutions.
+### 💡 Professional Profile
+I am a dual-licensed Engineer focused on the design, deployment, and security of resilient network infrastructures. I bridge the gap between physical electronic systems and enterprise-level IT administration. My work emphasizes **scalable virtualization**, **automated systems management**, and **secure routing protocols**. I am committed to building documented, high-availability environments that meet modern industry standards.
 
 ---
 
-## 🚀 Featured Infrastructure Lab
-### [Network & Systems Engineering Portfolio](https://github.com/SaberPendragonn/network-and-systems-portfolio)
-*Comprehensive documentation of enterprise-grade network simulations and systems deployment.*
+### 🚀 Core Technical Lab
+#### [**Enterprise Network & Systems Engineering Portfolio**](https://github.com/SaberPendragonn/network-and-systems-portfolio)
+*A centralized repository for production-grade simulations, Windows Server deployments, and network hardening.*
 
-* **Network Architecture:** Implemented VLAN segmentation and secure routing protocols using MikroTik and GNS3.
-* **Identity Management:** Deployed Active Directory Domain Services (AD DS) with DNS/DHCP integration on Windows Server.
-* **Virtualization:** Engineered isolated testing environments using VMware and VirtualBox to simulate production-level failovers.
-* **Security:** Configured firewall rules and access control lists (ACLs) to ensure least-privilege network access.
-
----
-
-## 🛠 Tech Stack & Core Competencies
-
-<table align="center" cellspacing="10">
-<tr>
-<td align="center">
-<img src="https://i.imgur.com/giz2X3y.png" width="80"><br>MikroTik
-</td>
-<td align="center">
-<img src="https://i.imgur.com/fN0DZaX.png" width="65"><br>WinBox
-</td>
-<td align="center">
-<img src="https://i.imgur.com/ZanTLkR.png" width="65"><br>GNS3
-</td>
-<td align="center">
-<img src="https://i.imgur.com/OHP9jkt.png" width="75"><br>VirtualBox
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://i.imgur.com/DOZcEtL.png" width="75"><br>VMware
-</td>
-<td align="center">
-<img src="https://i.imgur.com/SiCyQrz.png" width="80"><br>Windows Server
-</td>
-<td align="center">
-<img src="https://i.imgur.com/azY7EfE.png" width="70"><br>PowerShell
-</td>
-<td align="center">
-<img src="https://i.imgur.com/d6wCzdZ.png" width="75"><br>GitHub
-</td>
-</tr>
-</table>
----
-
-## 📚 Trainings & Seminars
-
-- Fire Detection & Alarm Systems (FDAS) Training  
-- Structured Cabling Systems  
-- Public Address & Background Music Systems (PABGM)  
-- Auxiliary Systems Training  
-- MikroTik MTCNA Training Camp  
-- ECE Career Compass: IT & Engineering Roles
+* **Network Architecture:** Orchestrated multi-site VLAN segmentation and OSPF/BGP routing using **MikroTik (RouterOS)** and GNS3.
+* **Systems Administration:** Engineered an **Active Directory (AD DS)** ecosystem featuring integrated DNS, DHCP, and Group Policy Objects (GPOs).
+* **Virtualization & High Availability:** Designed isolated sandbox environments in **VMware ESXi** and VirtualBox to validate failover clusters and disaster recovery.
+* **Infrastructure Security:** Hardened network perimeters through Firewall Filter Rules, NAT, and granular Access Control Lists (ACLs).
 
 ---
 
-## 🏆 Achievements & Education
+### 🏢 Professional Experience
+**D.M. Consunji, Inc. (DMCI)** | *Engineering Intern* | *2025*
+* Coordinated technical inspection and quality assurance for large-scale **Structured Cabling Systems**.
+* Standardized infrastructure documentation, including patch panel mapping and network layout schematics.
+* Monitored deployment of auxiliary systems to ensure compliance with industry-standard IT infrastructure protocols.
+
+---
+
+### 🛠 Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Networking** | MikroTik (MTCNA level), WinBox, GNS3, Cisco Packet Tracer, VLANs, Routing Protocols |
+| **Systems** | Windows Server 2019/2022, Active Directory, DNS/DHCP, PowerShell Scripting |
+| **Virtualization** | VMware Workstation/ESXi, Oracle VirtualBox, Virtualized Sensor Networks |
+| **Development** | Python, C/C++, GitHub Actions, Markdown Documentation |
+
+---
+
+### 📜 Certifications & Achievements
+* **MTCNA Training Camp:** Comprehensive MikroTik Certified Network Associate curriculum.
+* **Specialized Auxiliary Training:** Fire Detection & Alarm Systems (FDAS), PABGM, and Structured Cabling.
+* **Thesis Excellence:** *Virtualized Wireless Sensor Network Laboratory* — Developed a high-fidelity simulation environment for IoT sensor nodes.
+* **Competitive Honors:** Champion (Python/C Programming), Regional IECEP Quizzer.
+
+---
+
+### 🎓 Education
 * **Bachelor of Science in Electronics Engineering**
-* **Thesis:** *Virtualized Wireless Sensor Network Laboratory* — Successfully simulated complex sensor nodes in a virtual environment.
-* **Champion:** Programming Contest (Python/C)
-* **Regional Quizzer:** IECEP (Institute of Electronics Engineers of the Philippines)
+    * *Licensed ECE & ECT (Professional Regulation Commission, PH)*
 
----
+<br />
 
 <div align="center">
-  <sub>Built with precision by Anthony R. Macabata. Let's connect and build something secure.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaberPendragonn&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <sub>Precision-engineered infrastructure. Built for reliability.</sub>
 </div>
