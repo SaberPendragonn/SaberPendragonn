@@ -63,7 +63,7 @@ I am a dual-licensed Electronics Engineer and Technician with hands-on experienc
 <img src="https://i.imgur.com/ZanTLkR.png" width="65"><br>GNS3
 </td>
 <td align="center">
-<img src="[https://i.imgur.com/bAyfZ25.png](https://i.imgur.com/bAyfZ25.png)" width="75"><br>VirtualBox
+<img src="https://i.imgur.com/OHP9jkt.png" width="75"><br>VirtualBox
 </td>
 </tr>
 <tr>
