@@ -1,157 +1,122 @@
-<h1 align="center">Anthony R. Macabata</h1>
+# <div align="center">Anthony R. Macabata</div>
 
-<p align="center">
-  🎓 BS Electronics Engineering · Licensed ECE <br>
-  💻 Network & Systems Engineer (MikroTik · Windows Server)
-</p>
+<div align="center">
 
----
+<img src="https://i.imgur.com/bAyfZ25.png" width="120" height="120" style="border-radius:50%;" />
 
-## 💡 About Me
+**Licensed Electronics Engineer (ECE)**  
+**Licensed Electronics Technician (ECT)**  
 
-Licensed Electronics Engineer with hands-on experience in **network engineering** and **systems administration**, specializing in **MikroTik routing** and **Windows Server environments**.
-
-I design and implement **realistic IT lab environments** that simulate enterprise infrastructure, focusing on **network segmentation, security, and domain-based management**.
-
-Currently expanding expertise in:
-- Network Infrastructure (Routing, VLANs, Firewall)
-- Windows Server Administration (Active Directory, GPO, DNS/DHCP)
-- Cloud & Automation (AWS/Azure, PowerShell)
+</div>
 
 ---
 
-## 🛠 Core Skills
+## 💡 Professional Summary
+
+Licensed **Electronics Engineer** and **Electronics Technician** with hands-on experience in **network engineering** and **systems administration**. Skilled in designing and deploying **scalable, secure IT infrastructures** using **MikroTik RouterOS** and **Windows Server environments**.
+
+Passionate about building **real-world lab simulations** that mirror enterprise systems, with a focus on:
+- Network segmentation and security  
+- Centralized system management  
+- Infrastructure reliability and performance optimization  
+
+---
+
+## 🛠 Core Competencies
 
 ### 🔹 Networking
-- MikroTik RouterOS (Routing, NAT, Firewall, VPN)
-- VLANs, Subnetting, TCP/IP
-- Network Design & Troubleshooting
+- MikroTik RouterOS *(Routing · NAT · Firewall · VPN · VLANs)*
+- TCP/IP, Subnetting, Network Design
+- Network Troubleshooting & Optimization
 
 ### 🔹 Systems Administration
-- Windows Server (Active Directory, DNS, DHCP)
-- Group Policy Management
-- User & Domain Administration
+- Windows Server *(Active Directory · DNS · DHCP · Group Policy)*
+- Virtualization & Lab Deployment
+- User and Policy Management
 
 ### 🔹 Tools & Technologies
-- WinBox, GNS3 / EVE-NG
-- VirtualBox / VMware
-- PowerShell (Automation Basics)
+
+<div align="center">
+
+<img src="https://i.imgur.com/giz2X3y.png" width="60"/> 
+<img src="https://i.imgur.com/fN0DZaX.png" width="60"/> 
+<img src="https://i.imgur.com/ZanTLkR.png" width="60"/> 
+<img src="https://i.imgur.com/bAyfZ25.png" width="60"/> 
+<img src="https://i.imgur.com/DOZcEtL.png" width="60"/> 
+<img src="https://i.imgur.com/SiCyQrz.png" width="60"/> 
+<img src="https://i.imgur.com/azY7EfE.png" width="60"/> 
+<img src="https://i.imgur.com/d6wCzdZ.png" width="60"/> 
+
+</div>
+
+<p align="center">
+MikroTik · WinBox · GNS3 · VirtualBox · VMware · Windows Server · PowerShell · GitHub
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔥 Flagship Project — End-to-End Infrastructure
+### 🔗 Network & Systems Engineering Labs  
+📁 https://github.com/SaberPendragonn/network-and-systems-portfolio  
 
-<div align="center">
-  <img src="./assets/flagship.png" width="700" />
+A curated portfolio of **hands-on lab environments** demonstrating:
+
+- Enterprise network design and segmentation  
+- Active Directory deployment and management  
+- Secure routing and firewall configurations  
+- Virtualized infrastructure setups  
+
+---
+
+## 📜 Certifications
+
+<div align="left">
+<img src="https://i.imgur.com/9cShMBx.png" width="90"/>
 </div>
 
-**Enterprise Network with Active Directory Integration**  
-👉 [View Project](./projects/flagship-project/)
-
-- VLAN-based segmentation (HR, IT, Guest)
-- MikroTik routing, NAT, and firewall configuration
-- Windows Server Domain Controller deployment
-- Active Directory, DNS, DHCP integration
-- Domain-joined clients with enforced Group Policies
-
----
-
-## 🧠 Networking Labs (MikroTik)
-
-<div align="center">
-  <img src="./assets/networking.png" width="700" />
-</div>
-
-| Lab | Description | Link |
-|-----|------------|------|
-| 🌐 DHCP Configuration | Automated IP assignment | [View](./labs/networking/dhcp/) |
-| 🔐 Firewall & NAT | Traffic control & security rules | [View](./labs/networking/firewall/) |
-| 🧩 VLAN Segmentation | Logical network isolation | [View](./labs/networking/vlan/) |
-| 🔄 Routing & Subnetting | Network communication design | [View](./labs/networking/routing/) |
-
----
-
-## 🖥️ Windows Server Labs
-
-<div align="center">
-  <img src="./assets/windows-server.png" width="700" />
-</div>
-
-| Lab | Description | Link |
-|-----|------------|------|
-| 🏢 Active Directory Setup | Domain controller deployment | [View](./windows-server-labs/active-directory/) |
-| 🌐 DNS Configuration | Name resolution services | [View](./windows-server-labs/dns/) |
-| 📡 DHCP Deployment | Centralized IP management | [View](./windows-server-labs/dhcp/) |
-| 🔐 Group Policy | Security & user configuration | [View](./windows-server-labs/group-policy/) |
-
----
-
-## ☁️ Cloud & Automation (In Progress)
-
-- Microsoft 365 / Entra ID Labs  
-- PowerShell Automation Projects  
-
----
-
-## 📁 Full Portfolio
-
-📂 Explore all projects and labs:  
-👉 [View Complete Portfolio](./PROJECTS.md)
-
----
-
-## 🛠 Tools & Technologies
-
-- MikroTik RouterOS · WinBox  
-- Windows Server 2019/2022  
-- GNS3 / EVE-NG  
-- VirtualBox / VMware  
-- PowerShell  
-- GitHub (Version Control & Documentation)
-
----
-
-## 📜 Certification
-
-- 🏅 MikroTik Certified Network Associate (MTCNA)
+- **MikroTik Certified Network Associate (MTCNA)**
 
 ---
 
 ## 🏢 Internship Experience
 
-**D.M. Consunji, Inc. (DMCI)** — 2025  
+<div align="left">
+<img src="https://i.imgur.com/AIWXhUV.png" width="90"/>
+</div>
 
-- Assisted in structured cabling planning and inspection  
-- Observed network infrastructure deployment (patch panels, cable management)  
-- Gained exposure to real-world enterprise IT environments  
+**D.M. Consunji, Inc. (DMCI)** — *2025*
+
+- Assisted in **planning and inspection** of structured cabling systems  
+- Observed **enterprise-level IT infrastructure deployments**  
+- Gained exposure to:
+  - Patch panel configuration  
+  - Cable labeling standards  
+  - Network layout design  
 
 ---
 
 ## 📚 Trainings & Seminars
 
-- FDAS Technical Training — 2025  
-- Structured Cabling Systems — 2025  
-- Public Address & BGM Systems — 2025  
-- Auxiliary Systems Training — 2025  
-- MikroTik MTCNA Training Camp — 2025  
-- ECE Career Compass — 2023  
+- Fire Detection & Alarm Systems (FDAS)
+- Structured Cabling Systems
+- Public Address & Background Music Systems (PABGM)
+- Auxiliary Systems Training
+- MikroTik MTCNA Training Camp
+- ECE Career Compass: IT & Engineering Roles
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Champion — Programming Contest (Python/C)  
-- 🧠 IECEP Regional Quizzer Representative  
-- 📡 Thesis: Virtualized Wireless Sensor Network Laboratory  
+- 🥇 Champion — Programming Contest *(Python/C)*  
+- 🧠 IECEP Regional Quizzer  
+- 📡 Thesis: *Virtualized Wireless Sensor Network Laboratory*  
 
 ---
 
-## 📫 Connect
+## 📫 Contact
 
-- 🔗 GitHub: https://github.com/SaberPendragonn  
-- 🔗 LinkedIn: https://linkedin.com/in/yourusername  
-- 📧 Email: amacabata43@gmail.com  
-
----
+📧 **Email:** engineer.anthony.macabata@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/yourusername  
+🔗 **GitHub:** https://github.com/SaberPendragonn  
