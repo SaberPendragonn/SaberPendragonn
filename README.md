@@ -65,17 +65,32 @@ I am a dual-licensed Engineer with a core focus on designing and securing resili
 </table>
 ---
 
-## 🏢 Professional Experience & Training
+## 📚 Trainings & Seminars
 
-#### **DMCI (D.M. Consunji, Inc.)** | Engineering Intern
-*2025*
-* **Infrastructure Inspection:** Assisted in the QA/QC of large-scale structured cabling systems and network layouts.
-* **Field Deployment:** Gained direct exposure to data center physical layers, including patch panel termination and standardized cable labeling.
-* **Project Observation:** Evaluated auxiliary system integrations (FDAS/PABGM) within commercial construction environments.
+- Fire Detection & Alarm Systems (FDAS) Training  
+- Structured Cabling Systems  
+- Public Address & Background Music Systems (PABGM)  
+- Auxiliary Systems Training  
+- MikroTik MTCNA Training Camp  
+- ECE Career Compass: IT & Engineering Roles  
 
-#### **Technical Certifications**
-* **MTCNA:** MikroTik Certified Network Associate
-* **Professional Licenses:** ECE (Reg. No. XXXXX) | ECT (Reg. No. XXXXX)
+## 🏢 Internship Experience
+
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/AIWXhUV.png" width="80">
+</td>
+<td>
+
+**D.M. Consunji, Inc. (DMCI)** — *2025*
+
+- Assisted in planning and inspection of structured cabling systems  
+- Observed actual IT infrastructure deployments  
+- Gained exposure to industry practices:
+  - Patch panels  
+  - Cable labeling  
+  - Network layout  
 
 ---
 
