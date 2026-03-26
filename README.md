@@ -32,26 +32,37 @@ I am a dual-licensed Engineer with a core focus on designing and securing resili
 
 ## 🛠 Tech Stack & Core Competencies
 
-| Domain | Technologies & Skills |
-| :--- | :--- |
-| **Networking** | MikroTik (MTCNA), WinBox, GNS3, VLANs, Routing & Switching, Firewalling |
-| **Systems** | Windows Server (2019/2022), Active Directory, Group Policy (GPO) |
-| **Virtualization** | VMware Workstation, Oracle VirtualBox, Proxmox (Basic) |
-| **Tools/Dev** | PowerShell Scripting, GitHub, Technical Documentation, Python/C |
-| **Auxiliary** | FDAS, Structured Cabling, PABGM, Wireless Sensor Networks (WSN) |
+<table align="center" cellspacing="10">
+<tr>
+<td align="center">
+<img src="https://i.imgur.com/giz2X3y.png" width="80"><br>MikroTik
+</td>
+<td align="center">
+<img src="https://i.imgur.com/fN0DZaX.png" width="65"><br>WinBox
+</td>
+<td align="center">
+<img src="https://i.imgur.com/ZanTLkR.png" width="65"><br>GNS3
+</td>
+<td align="center">
+<img src="https://i.imgur.com/bAyfZ25.png" width="75"><br>VirtualBox
+</td>
+</tr>
 
-<br/>
-
-<div align="center">
-  <img src="https://i.imgur.com/giz2X3y.png" width="50" alt="MikroTik" /> &nbsp;
-  <img src="https://i.imgur.com/fN0DZaX.png" width="45" alt="WinBox" /> &nbsp;
-  <img src="https://i.imgur.com/ZanTLkR.png" width="45" alt="GNS3" /> &nbsp;
-  <img src="https://i.imgur.com/DOZcEtL.png" width="50" alt="VMware" /> &nbsp;
-  <img src="https://i.imgur.com/SiCyQrz.png" width="50" alt="Windows Server" /> &nbsp;
-  <img src="https://i.imgur.com/azY7EfE.png" width="45" alt="PowerShell" /> &nbsp;
-  <img src="https://i.imgur.com/d6wCzdZ.png" width="50" alt="GitHub" />
-</div>
-
+<tr>
+<td align="center">
+<img src="https://i.imgur.com/DOZcEtL.png" width="75"><br>VMware
+</td>
+<td align="center">
+<img src="https://i.imgur.com/SiCyQrz.png" width="80"><br>Windows Server
+</td>
+<td align="center">
+<img src="https://i.imgur.com/azY7EfE.png" width="70"><br>PowerShell
+</td>
+<td align="center">
+<img src="https://i.imgur.com/d6wCzdZ.png" width="75"><br>GitHub
+</td>
+</tr>
+</table>
 ---
 
 ## 🏢 Professional Experience & Training
