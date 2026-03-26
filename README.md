@@ -36,22 +36,37 @@ Develops hands-on lab environments to simulate real-world IT infrastructure, str
 
 ## 🧰 Tools & Technologies
 
-<table align="center">
+<table align="center" cellspacing="10">
 <tr>
-<td align="center"><img src="https://i.imgur.com/giz2X3y.png" width="50"><br>MikroTik</td>
-<td align="center"><img src="https://i.imgur.com/fN0DZaX.png" width="50"><br>WinBox</td>
-<td align="center"><img src="https://i.imgur.com/ZanTLkR.png" width="50"><br>GNS3</td>
-<td align="center"><img src="https://i.imgur.com/bAyfZ25.png" width="50"><br>VirtualBox</td>
+<td align="center">
+<img src="https://i.imgur.com/giz2X3y.png" width="80"><br>MikroTik
+</td>
+<td align="center">
+<img src="https://i.imgur.com/fN0DZaX.png" width="65"><br>WinBox
+</td>
+<td align="center">
+<img src="https://i.imgur.com/ZanTLkR.png" width="65"><br>GNS3
+</td>
+<td align="center">
+<img src="https://i.imgur.com/bAyfZ25.png" width="75"><br>VirtualBox
+</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://i.imgur.com/DOZcEtL.png" width="50"><br>VMware</td>
-<td align="center"><img src="https://i.imgur.com/SiCyQrz.png" width="50"><br>Windows Server</td>
-<td align="center"><img src="https://i.imgur.com/azY7EfE.png" width="50"><br>PowerShell</td>
-<td align="center"><img src="https://i.imgur.com/d6wCzdZ.png" width="50"><br>GitHub</td>
+<td align="center">
+<img src="https://i.imgur.com/DOZcEtL.png" width="75"><br>VMware
+</td>
+<td align="center">
+<img src="https://i.imgur.com/SiCyQrz.png" width="80"><br>Windows Server
+</td>
+<td align="center">
+<img src="https://i.imgur.com/azY7EfE.png" width="70"><br>PowerShell
+</td>
+<td align="center">
+<img src="https://i.imgur.com/d6wCzdZ.png" width="75"><br>GitHub
+</td>
 </tr>
 </table>
-
 ---
 
 ## 🚀 Featured Projects
