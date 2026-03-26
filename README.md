@@ -15,7 +15,7 @@
 
 ## 💡 Professional Summary
 
-Licensed Electronics Engineer and Electronics Technician with practical experience in network configuration and system administration. Skilled in working with MikroTik routers and Windows Server environments, with a strong focus on building reliable and secure systems.
+Licensed Electronics Engineer and Electronics Technician with practical experience in network configuration and system administration. Skilled in MikroTik routing and Windows Server environments, with a focus on building secure, reliable systems.
 
 Develops hands-on lab environments to simulate real-world IT infrastructure, strengthening skills in network design, system management, and troubleshooting.
 
@@ -31,8 +31,6 @@ Develops hands-on lab environments to simulate real-world IT infrastructure, str
 - Technical Documentation & Problem Solving  
 
 ---
-
-## 🧰 Tools & Technologies
 
 ## 🧰 Tools & Technologies
 
@@ -67,6 +65,7 @@ Develops hands-on lab environments to simulate real-world IT infrastructure, str
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🚀 Featured Projects
@@ -84,24 +83,43 @@ A collection of hands-on lab projects covering:
 
 ## 📜 Certifications
 
-<img src="https://i.imgur.com/9cShMBx.png" width="80"/>
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/9cShMBx.png" width="70">
+</td>
+<td>
 
-- **MikroTik Certified Network Associate (MTCNA)**
+**MikroTik Certified Network Associate (MTCNA)**  
+Industry certification validating foundational skills in MikroTik routing, firewall configuration, and network management.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏢 Internship Experience
 
-<img src="https://i.imgur.com/AIWXhUV.png" width="70"/>
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/AIWXhUV.png" width="80">
+</td>
+<td>
 
 **D.M. Consunji, Inc. (DMCI)** — *2025*
 
 - Assisted in planning and inspection of structured cabling systems  
 - Observed actual IT infrastructure deployments  
-- Gained exposure to industry practices in:
+- Gained exposure to industry practices:
   - Patch panels  
   - Cable labeling  
   - Network layout  
+
+</td>
+</tr>
+</table>
 
 ---
 
