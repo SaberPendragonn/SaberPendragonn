@@ -44,7 +44,7 @@ I am a dual-licensed Engineer with a core focus on designing and securing resili
 <img src="https://i.imgur.com/ZanTLkR.png" width="65"><br>GNS3
 </td>
 <td align="center">
-<img src="[https://i.imgur.com/bAyfZ25.png](https://imgur.com/gallery/portfolio-imgs-HH4mfYQ#OHP9jkt)" width="75"><br>VirtualBox
+<img src="https://i.imgur.com/OHP9jkt.png" width="75"><br>VirtualBox
 </td>
 </tr>
 
