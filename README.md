@@ -76,26 +76,6 @@ I am a dual-licensed Engineer with a core focus on designing and securing resili
 
 ---
 
-## 🏢 Internship Experience
-
-<table>
-<tr>
-<td>
-<img src="https://i.imgur.com/AIWXhUV.png" width="80">
-</td>
-<td>
-
-**D.M. Consunji, Inc. (DMCI)** — *2025*
-
-- Assisted in planning and inspection of structured cabling systems  
-- Observed actual IT infrastructure deployments  
-- Gained exposure to industry practices:
-  - Patch panels  
-  - Cable labeling  
-  - Network layout  
-
----
-
 ## 🏆 Achievements & Education
 * **Bachelor of Science in Electronics Engineering**
 * **Thesis:** *Virtualized Wireless Sensor Network Laboratory* — Successfully simulated complex sensor nodes in a virtual environment.
