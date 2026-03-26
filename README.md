@@ -72,7 +72,9 @@ I am a dual-licensed Engineer with a core focus on designing and securing resili
 - Public Address & Background Music Systems (PABGM)  
 - Auxiliary Systems Training  
 - MikroTik MTCNA Training Camp  
-- ECE Career Compass: IT & Engineering Roles  
+- ECE Career Compass: IT & Engineering Roles
+
+---
 
 ## 🏢 Internship Experience
 
