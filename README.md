@@ -34,22 +34,23 @@ Develops hands-on lab environments to simulate real-world IT infrastructure, str
 
 ## 🧰 Tools & Technologies
 
-<p align="center">
+## 🧰 Tools & Technologies
 
-<img src="https://i.imgur.com/giz2X3y.png" width="45"/> &nbsp;
-<img src="https://i.imgur.com/fN0DZaX.png" width="45"/> &nbsp;
-<img src="https://i.imgur.com/ZanTLkR.png" width="45"/> &nbsp;
-<img src="https://i.imgur.com/bAyfZ25.png" width="45"/> &nbsp;
-<img src="https://i.imgur.com/DOZcEtL.png" width="45"/> &nbsp;
-<img src="https://i.imgur.com/SiCyQrz.png" width="45"/> &nbsp;
-<img src="https://i.imgur.com/azY7EfE.png" width="45"/> &nbsp;
-<img src="https://i.imgur.com/d6wCzdZ.png" width="45"/>
+<table align="center">
+<tr>
+<td align="center"><img src="https://i.imgur.com/giz2X3y.png" width="50"><br>MikroTik</td>
+<td align="center"><img src="https://i.imgur.com/fN0DZaX.png" width="50"><br>WinBox</td>
+<td align="center"><img src="https://i.imgur.com/ZanTLkR.png" width="50"><br>GNS3</td>
+<td align="center"><img src="https://i.imgur.com/bAyfZ25.png" width="50"><br>VirtualBox</td>
+</tr>
 
-</p>
-
-<p align="center">
-MikroTik · WinBox · GNS3 · VirtualBox · VMware · Windows Server · PowerShell · GitHub
-</p>
+<tr>
+<td align="center"><img src="https://i.imgur.com/DOZcEtL.png" width="50"><br>VMware</td>
+<td align="center"><img src="https://i.imgur.com/SiCyQrz.png" width="50"><br>Windows Server</td>
+<td align="center"><img src="https://i.imgur.com/azY7EfE.png" width="50"><br>PowerShell</td>
+<td align="center"><img src="https://i.imgur.com/d6wCzdZ.png" width="50"><br>GitHub</td>
+</tr>
+</table>
 
 ---
 
