@@ -15,43 +15,37 @@
 
 ## 💡 Professional Summary
 
-Licensed Electronics Engineer and Electronics Technician with practical experience in network setup and system administration. I’ve worked extensively with MikroTik routers and Windows Server environments, building lab setups that reflect real-world IT systems.
+Licensed Electronics Engineer and Electronics Technician with practical experience in network configuration and system administration. Skilled in working with MikroTik routers and Windows Server environments, with a strong focus on building reliable and secure systems.
 
-I focus on creating reliable and secure networks, improving system organization, and continuously developing my skills through hands-on projects and simulations.
+Develops hands-on lab environments to simulate real-world IT infrastructure, strengthening skills in network design, system management, and troubleshooting.
 
 ---
 
 ## 🛠 Core Competencies
 
-### 🔹 Networking
-- MikroTik RouterOS *(Routing · NAT · Firewall · VPN · VLANs)*
-- TCP/IP, Subnetting, Network Design
-- Network Troubleshooting
-
-### 🔹 Systems Administration
-- Windows Server *(Active Directory · DNS · DHCP · Group Policy)*
-- Virtualization
-- User & Policy Management
+- Network Configuration & Troubleshooting  
+- Systems Administration (Windows Server, Active Directory)  
+- Network Security & Segmentation  
+- Virtualization & Lab Environment Setup  
+- Infrastructure Planning & Deployment  
+- Technical Documentation & Problem Solving  
 
 ---
 
 ## 🧰 Tools & Technologies
 
-<div align="center">
+<p align="center">
 
-<img src="https://i.imgur.com/giz2X3y.png" width="50"/> &nbsp;&nbsp;&nbsp;
-<img src="https://i.imgur.com/fN0DZaX.png" width="50"/> &nbsp;&nbsp;&nbsp;
-<img src="https://i.imgur.com/ZanTLkR.png" width="50"/> &nbsp;&nbsp;&nbsp;
-<img src="https://i.imgur.com/bAyfZ25.png" width="50"/>
+<img src="https://i.imgur.com/giz2X3y.png" width="45"/> &nbsp;
+<img src="https://i.imgur.com/fN0DZaX.png" width="45"/> &nbsp;
+<img src="https://i.imgur.com/ZanTLkR.png" width="45"/> &nbsp;
+<img src="https://i.imgur.com/bAyfZ25.png" width="45"/> &nbsp;
+<img src="https://i.imgur.com/DOZcEtL.png" width="45"/> &nbsp;
+<img src="https://i.imgur.com/SiCyQrz.png" width="45"/> &nbsp;
+<img src="https://i.imgur.com/azY7EfE.png" width="45"/> &nbsp;
+<img src="https://i.imgur.com/d6wCzdZ.png" width="45"/>
 
-<br/><br/>
-
-<img src="https://i.imgur.com/DOZcEtL.png" width="50"/> &nbsp;&nbsp;&nbsp;
-<img src="https://i.imgur.com/SiCyQrz.png" width="50"/> &nbsp;&nbsp;&nbsp;
-<img src="https://i.imgur.com/azY7EfE.png" width="50"/> &nbsp;&nbsp;&nbsp;
-<img src="https://i.imgur.com/d6wCzdZ.png" width="50"/>
-
-</div>
+</p>
 
 <p align="center">
 MikroTik · WinBox · GNS3 · VirtualBox · VMware · Windows Server · PowerShell · GitHub
@@ -88,7 +82,7 @@ A collection of hands-on lab projects covering:
 
 - Assisted in planning and inspection of structured cabling systems  
 - Observed actual IT infrastructure deployments  
-- Learned industry practices in:
+- Gained exposure to industry practices in:
   - Patch panels  
   - Cable labeling  
   - Network layout  
