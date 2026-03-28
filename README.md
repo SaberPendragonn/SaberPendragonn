@@ -4,10 +4,11 @@
 
 <img src="https://i.imgur.com/bAyfZ25.png" width="120" style="border-radius:50%; border: 3px solid #24292e;" />
 
-**Licensed Electronics Engineer & Technician**  
+**Licensed Electronics and Communication Engineer**  
+**Licensed Electronics Technician**  
 *Specializing in Network Infrastructure, Systems Administration, and Virtualization*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-macabata-9675013ba/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaberPendragonn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engineer.anthony.macabata@gmail.com)
 
@@ -16,36 +17,39 @@
 ---
 
 ### 💡 Professional Summary
-I am a dual-licensed Electronics Engineer and Technician with hands-on experience in designing, deploying, and securing enterprise-grade network infrastructures. I specialize in bridging physical electronics with IT systems, delivering **scalable virtualization**, **automated system management**, and **robust security architectures**. My focus is on creating highly available, documented environments that meet industry standards and enable operational excellence.
+Licensed Electronics Engineer and Technician with hands-on experience in **network configuration, Windows Server administration, and virtualization** through structured lab environments and internship exposure. Skilled in building and documenting small-to-medium scale network setups using MikroTik, GNS3, and VMware. Focused on practical implementation, system reliability, and clear technical documentation.
 
 ---
 
 ### 🚀 Core Competencies
-- **Network Design & Routing:** VLAN segmentation, OSPF/BGP, multi-site connectivity  
-- **Systems Administration:** Active Directory, DNS/DHCP, GPOs, Windows Server environments  
-- **Virtualization & High Availability:** VMware ESXi, VirtualBox, sandbox clusters, disaster recovery  
-- **Infrastructure Security:** Firewalls, ACLs, NAT, perimeter hardening, secure routing  
-- **Automation & Scripting:** PowerShell, infrastructure automation, configuration management  
+- **Network Design & Routing:** VLAN, IP subnetting, static routing, OSPF (lab-based), introductory BGP, VPN concepts  
+- **Systems Administration:** Active Directory, Group Policy, DNS/DHCP  
+- **Virtualization:** VMware, VirtualBox, Hyper-V (VM provisioning, snapshots, basic failover testing)  
+- **Infrastructure Security:** Firewalls, ACLs, NAT, basic QoS  
+- **Automation & Scripting:** PowerShell & Python (fundamentals)  
 - **Technical Documentation:** Network diagrams, patch panel maps, system schematics  
 
 ---
 
-### 📂 Projects & Portfolio
+### 📂 Project Highlight (CLICK THE LINK BELOW)
 #### [Enterprise Network & Systems Engineering Portfolio](https://github.com/SaberPendragonn/network-and-systems-portfolio)
-*Production-grade simulations, server deployments, and network hardening exercises.*
+*Hands-on lab environments simulating enterprise-style network and systems deployments using MikroTik (RouterOS), GNS3, VMware, and Windows Server.*
 
-- **Network Architecture:** Designed multi-site VLANs, implemented OSPF/BGP routing in **MikroTik (RouterOS)** and GNS3 simulations.  
-- **Systems Administration:** Built Active Directory domains with integrated DNS, DHCP, and GPO automation.  
-- **Virtualization & HA:** Created isolated ESXi and VirtualBox sandboxes to validate failover clusters and disaster recovery.  
-- **Infrastructure Security:** Applied Firewall Filters, ACLs, and NAT policies to strengthen perimeter security.
+- **Network Architecture:** Configured multi-site topology (3–5 simulated branches) with VLAN segmentation, inter-VLAN routing, and OSPF multi-area routing in **MikroTik (RouterOS)** and GNS3  
+- **Routing & Connectivity:** Implemented and tested OSPF convergence and basic BGP route advertisement in a controlled lab environment  
+- **Systems Administration:** Deployed Windows Server Active Directory with integrated DNS, DHCP, and Group Policy for centralized user and policy management  
+- **Virtualization:** Created and managed 10+ virtual machines across VMware, Hyper-V, and VirtualBox for testing and isolation  
+- **Infrastructure Security:** Applied firewall filters, NAT, and ACL policies to simulate perimeter security controls  
+- **Documentation:** Produced network diagrams, IP addressing schemes, and configuration documentation for all lab setups  
 
 ---
 
 ### 🏢 Professional Experience
 **D.M. Consunji, Inc. (DMCI)** | *Engineering Intern* | *2025*  
-- Conducted inspections and QA for **Structured Cabling Systems** across large-scale projects.  
-- Standardized technical documentation, including patch panel mapping and network schematics.  
-- Ensured auxiliary systems deployment complied with IT infrastructure standards and best practices.
+- Assisted in QA inspections of **structured cabling systems** across a large-scale construction project  
+- Verified installations against **TIA/EIA standards** and project specifications  
+- Produced and standardized technical documentation, including **patch panel mapping and network schematics**  
+- Coordinated with engineers and technicians to ensure auxiliary systems complied with infrastructure design and standards  
 
 ---
 
@@ -87,14 +91,16 @@ I am a dual-licensed Electronics Engineer and Technician with hands-on experienc
 ### 📜 Certifications
 - Fire Detection & Alarm Systems (FDAS)  
 - Structured Cabling Systems  
+
+### 📚 Training
 - Public Address & Background Music Systems (PABGM)  
 - Auxiliary Systems Training  
-- MikroTik MTCNA Training Camp  
+- MikroTik (MTCNA) Training Camp  
 - ECE Career Compass: IT & Engineering Roles  
 
 ---
 
 ### 🏆 Achievements
-- Champion — Programming Contest *(Python/C)*  
-- IECEP Regional Quizzer  
-- Thesis: *Virtualized Wireless Sensor Network Laboratory*  
+- **Champion** - Programming Contest *(Python/C)*  
+- **IECEP** - Regional Quizzer  
+- **Thesis:** Virtualization and Wireless Sensor Network Laboratory Experiment System  
