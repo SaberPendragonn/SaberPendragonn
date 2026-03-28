@@ -1,50 +1,36 @@
-<h2 align="center">🧪 Featured Labs & Projects</h2>
+<h2 align="center">🧪 Project Highlights</h2>
 
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>🖧 Enterprise AD + DNS Lab</h3>
+<h3>🖧 Enterprise AD Lab</h3>
+<p><i>Windows Server Infrastructure</i></p>
 
 <a href="https://github.com/YOUR_PROJECT_LINK">
 <img src="https://i.imgur.com/YOUR_GIF1.gif" width="100%" />
 </a>
 
 <p>
-Active Directory deployment with DNS, DHCP, OU structuring, and Group Policy automation.
-</p>
-
-<p><b>Tech Stack</b></p>
-
-<p>
-<img src="https://i.imgur.com/OHP9jkt.png" width="40">
-<img src="https://i.imgur.com/giz2X3y.png" width="40">
-<img src="https://i.imgur.com/fN0DZaX.png" width="40">
+Active Directory deployment with DNS, DHCP, and Group Policy automation.
+<a href="https://github.com/YOUR_PROJECT_LINK">Learn More...</a>
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🌐 Multi-Site Routing Lab</h3>
+<h3>🌐 Multi-Site Routing</h3>
+<p><i>VLAN + OSPF + Network Design</i></p>
 
 <a href="https://github.com/YOUR_PROJECT_LINK">
 <img src="https://i.imgur.com/YOUR_GIF2.gif" width="100%" />
 </a>
 
 <p>
-Simulated enterprise network using VLANs, OSPF, and inter-site routing.
-</p>
-
-<p><b>Tech Stack</b></p>
-
-<p>
-<img src="https://i.imgur.com/giz2X3y.png" width="40">
-<img src="https://i.imgur.com/ZanTLkR.png" width="40">
-<img src="https://i.imgur.com/fN0DZaX.png" width="40">
+Enterprise-style routing simulation across multiple sites using MikroTik and GNS3.
+<a href="https://github.com/YOUR_PROJECT_LINK">Learn More...</a>
 </p>
 
 </td>
@@ -55,43 +41,32 @@ Simulated enterprise network using VLANs, OSPF, and inter-site routing.
 
 <td width="50%" valign="top">
 
-<h3>🔐 Firewall & Security Hardening</h3>
+<h3>🔐 Network Security Lab</h3>
+<p><i>Firewall + NAT + ACL</i></p>
 
 <a href="https://github.com/YOUR_PROJECT_LINK">
 <img src="https://i.imgur.com/YOUR_GIF3.gif" width="100%" />
 </a>
 
 <p>
-Configured NAT, ACLs, and firewall rules for segmented network protection.
-</p>
-
-<p><b>Tech Stack</b></p>
-
-<p>
-<img src="https://i.imgur.com/giz2X3y.png" width="40">
-<img src="https://i.imgur.com/fN0DZaX.png" width="40">
+Implemented perimeter security policies and traffic filtering strategies.
+<a href="https://github.com/YOUR_PROJECT_LINK">Learn More...</a>
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🖥 Virtualization & Failover Lab</h3>
+<h3>🖥 Virtualization Lab</h3>
+<p><i>High Availability Systems</i></p>
 
 <a href="https://github.com/YOUR_PROJECT_LINK">
 <img src="https://i.imgur.com/YOUR_GIF4.gif" width="100%" />
 </a>
 
 <p>
-Built high-availability virtual environments with failover testing.
-</p>
-
-<p><b>Tech Stack</b></p>
-
-<p>
-<img src="https://i.imgur.com/OHP9jkt.png" width="40">
-<img src="https://i.imgur.com/ZanTLkR.png" width="40">
-<img src="https://i.imgur.com/giz2X3y.png" width="40">
+Failover testing and virtualization setup using VMware and Hyper-V.
+<a href="https://github.com/YOUR_PROJECT_LINK">Learn More...</a>
 </p>
 
 </td>
@@ -99,5 +74,3 @@ Built high-availability virtual environments with failover testing.
 </tr>
 
 </table>
-
-</div>
