@@ -5,9 +5,11 @@
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
+
 <h3>🖧 Enterprise AD + DNS Lab</h3>
-<a href="https://github.com/YOUR_REPO_LINK">
+
+<a href="https://github.com/YOUR_PROJECT_LINK">
 <img src="https://i.imgur.com/YOUR_GIF1.gif" width="100%" />
 </a>
 
@@ -15,15 +17,21 @@
 Active Directory deployment with DNS, DHCP, OU structuring, and Group Policy automation.
 </p>
 
+<p><b>Tech Stack</b></p>
+
 <p>
-<b>Tech:</b> Windows Server, PowerShell, VirtualBox
+<img src="https://i.imgur.com/OHP9jkt.png" width="40">
+<img src="https://i.imgur.com/giz2X3y.png" width="40">
+<img src="https://i.imgur.com/fN0DZaX.png" width="40">
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
+
 <h3>🌐 Multi-Site Routing Lab</h3>
-<a href="https://github.com/YOUR_REPO_LINK">
+
+<a href="https://github.com/YOUR_PROJECT_LINK">
 <img src="https://i.imgur.com/YOUR_GIF2.gif" width="100%" />
 </a>
 
@@ -31,8 +39,12 @@ Active Directory deployment with DNS, DHCP, OU structuring, and Group Policy aut
 Simulated enterprise network using VLANs, OSPF, and inter-site routing.
 </p>
 
+<p><b>Tech Stack</b></p>
+
 <p>
-<b>Tech:</b> MikroTik, GNS3
+<img src="https://i.imgur.com/giz2X3y.png" width="40">
+<img src="https://i.imgur.com/ZanTLkR.png" width="40">
+<img src="https://i.imgur.com/fN0DZaX.png" width="40">
 </p>
 
 </td>
@@ -41,9 +53,11 @@ Simulated enterprise network using VLANs, OSPF, and inter-site routing.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
+
 <h3>🔐 Firewall & Security Hardening</h3>
-<a href="https://github.com/YOUR_REPO_LINK">
+
+<a href="https://github.com/YOUR_PROJECT_LINK">
 <img src="https://i.imgur.com/YOUR_GIF3.gif" width="100%" />
 </a>
 
@@ -51,15 +65,20 @@ Simulated enterprise network using VLANs, OSPF, and inter-site routing.
 Configured NAT, ACLs, and firewall rules for segmented network protection.
 </p>
 
+<p><b>Tech Stack</b></p>
+
 <p>
-<b>Tech:</b> RouterOS, Networking
+<img src="https://i.imgur.com/giz2X3y.png" width="40">
+<img src="https://i.imgur.com/fN0DZaX.png" width="40">
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
+
 <h3>🖥 Virtualization & Failover Lab</h3>
-<a href="https://github.com/YOUR_REPO_LINK">
+
+<a href="https://github.com/YOUR_PROJECT_LINK">
 <img src="https://i.imgur.com/YOUR_GIF4.gif" width="100%" />
 </a>
 
@@ -67,8 +86,12 @@ Configured NAT, ACLs, and firewall rules for segmented network protection.
 Built high-availability virtual environments with failover testing.
 </p>
 
+<p><b>Tech Stack</b></p>
+
 <p>
-<b>Tech:</b> VMware, Hyper-V
+<img src="https://i.imgur.com/OHP9jkt.png" width="40">
+<img src="https://i.imgur.com/ZanTLkR.png" width="40">
+<img src="https://i.imgur.com/giz2X3y.png" width="40">
 </p>
 
 </td>
