@@ -29,7 +29,7 @@ I am a dual-licensed Electronics Engineer and Technician aspiring to be a Networ
 
 ---
 
-## PROJECTS
+## PROJECTS (CLICK THE LINKS)
 
 **[High Availability Enterprise Network (VLANs, VRRP, MSTP, DHCP Failover)](https://github.com/your-username/your-repo-link)**  
 - Designed an Active-Active enterprise network utilizing VRRP, MSTP, and split-scope DHCP failover to provide resilient gateway, link, and IP-addressing
